@@ -1,1 +1,1 @@
-sc
+script.sh
