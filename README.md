@@ -1,3 +1,44 @@
+
+                      Bioinformatics Assignment group 9
+Name
+Email
+Username 
+Area of Interest 
+Programming lan
+
+Aliyu Awaisu 
+aliyuawaisu38@gmail.com 
+aliyuawaisu
+Genomics 
+Python 
+
+Mbam Markus 
+maidukumbam@gmail.com 
+maidukambam-sudo
+Proteomics 
+R
+
+Aisha Hassan 
+aishahassankwabo@gmail.com
+aishahassankwabo-alt
+DNA sequences 
+Go
+
+Ishak usman
+usmanishakhussain@gmain.com
+esherk001 
+Competitive Biology 
+Per1
+
+Asabe markus 
+markusasabe332@gmail.com 
+markusasab
+Gene Ontology 
+C++
+
+
+
+
 Bioinformatics Assignment – Group 9
 I. Project Title
 Multi-Language Bioinformatics Workflow Automation Using Bash
@@ -47,7 +88,7 @@ Each group member implemented their contribution using a different programming l
 Contributor	Programming Language
 Aliyu Awaisu Ibrahim 	Python
 Mbam Markus maiduka 	R
-Aisha Hassan Abubakar 	Java
+Aisha Hassan Abubakar 	Go
 Ishaq Muhammad 	Perl 
 Asabe Markus 	C++
 Group Members Matriculation Numbers
@@ -72,7 +113,7 @@ This workflow demonstrates how Bash scripting can be used to coordinate multi-la
 Generating Structured Data for Downstream Analysis
 The final output of the workflow is a CSV file containing structured information about the contributors. The CSV format makes the data easy to integrate with other computational tools, databases, and analytical workflows commonly used in bioinformatics.
 
-Example output format:Name,Email,Slack Username,Area of Interest: Aliyu  aliyuawaisu38@gmail.com,@aliyuawaisu,Genomics Mbam,maidukumbam@gmail.com,@maidukumbam,Proteomics Aisha,aishahassankwabo@gmail.com,@aishahassankwabo,DNA sequences Ishaq,esherk001@gmail.com,@esherk001,Computational Biology Asabe,markusasabe332@gmail.com,@markusasabe332-boop,Gene Ontology
+Example output format:Name,Email,Slack Username,Area of Interest: Aliyu  aliyuawaisu38@gmail.com,@aliyuawaisu,Genomics Mbam,maidukumbam@gmail.com,@maidukumbam,Proteomics Aisha,aishahassankwabo@gmail.com,@aishahassankwabo,DNA sequences Ishaq,usmanishakhussain@gmail.com@gmail.com,@esherk001,Computational Biology Asabe,markusasabe332@gmail.com,@markusasabe332-boop,Gene Ontology
 
 Authors
 This project was collaboratively developed by Group 4 as part of a Bioinformatics coursework assignment for 400 Level students in the Department of Human Anatomy, Sa’adu Zungur University, Bauchi State, Nigeria.
@@ -86,7 +127,7 @@ Mbam – R Script Development
 GitHub: https://github.com/maidukambam
 Area of Interest: Proteomics
 
-Aisha – Java Script Development
+Aisha – Go Script Development
 GitHub: https://github.com/aishahassankwabo 
 Area of Interest: DNA sequences 
 
@@ -106,111 +147,4 @@ Area of Interest: Gene Ontology
 3. Pevsner, J. (2015). Bioinformatics and Functional Genomics (3rd ed.). Wiley-Blackwell.
 
 4. Xiong, J. (2006). Essential Bioinformatics. Cambridge University Press.
-Bioinformatics Assignment – Group 9
-I. Project Title
-Multi-Language Bioinformatics Workflow Automation Using Bash
 
-II. Brief Overview of Introduction to Bioinformatics
-Bioinformatics is an interdisciplinary field that integrates biology, computer science, statistics, and information technology to analyze and interpret biological data. With the rapid advancement of sequencing technologies and molecular biology research, enormous amounts of biological data are generated daily. Bioinformatics provides the computational tools and methods required to store, organize, analyze, and visualize this complex data.
-
-One of the major applications of bioinformatics is in genomics, where computational methods are used to study DNA sequences, identify genes, and understand genetic variation. It is also used in proteomics, transcriptomics, systems biology, drug discovery, and evolutionary biology. Bioinformatics tools help researchers analyze large biological datasets efficiently and derive meaningful insights that would be difficult to obtain using traditional laboratory methods alone.
-
-Programming and automation are essential components of bioinformatics. Researchers frequently use programming languages and computational workflows to automate repetitive tasks, analyze biological datasets, and ensure reproducibility of results.
-
-III. Description of the Assignment
-This project demonstrates collaborative software development and workflow automation using multiple programming languages in a bioinformatics context. Each member of the group contributed a script written in a different programming language. These scripts generate structured information about the contributors and their bioinformatics interests.
-
-A Bash workflow script (run_workflow.sh) is used to automate the execution of all scripts within the repository. The workflow collects outputs from each script and combines them into a structured CSV file stored in the artifacts directory. This CSV file can then be used for downstream analysis or integration with other bioinformatics tools.
-
-The main objectives of this assignment are to:
-
-Demonstrate the use of multiple programming languages in bioinformatics.
-Implement workflow automation using Bash scripting.
-Practice collaborative software development using GitHub.
-Generate structured data outputs suitable for downstream analysis.
-Develop clear and professional project documentation using Markdown.
-IV. List of Group Members
-Aliyu Awaisu Ibrahim 
-Mbam Markus maiduka
-Aisha Hassan Abubakar 
-Ishaq Muhammad 
-Asabe Markus 
-V. GitHub Usernames of Contributors
-Name	GitHub Username
-Aliyu Awaisu 	aliyuawaisu
-Mbam Markus 	maidukumbam
-Aisha Hassan 	aishahassankwabo 
-Ishaq Muhammad 	esherk001
-Asabe markus	
-VI. Each Member’s Area of Interest in Bioinformatics
-Name	Area of Interest
-Aliyu Awaisu Ibrahim 	Genomics
-Mbam Markus 	Proteomics
-Aisha Hassan Abubakar 	DNA sequences 
-Ishaq Muhammad 	Computational Biology
-Asabe Markus 	Gene Ontology
-VII. Programming Languages Used
-Each group member implemented their contribution using a different programming language:
-
-Contributor	Programming Language
-Aliyu Awaisu Ibrahim 	Python
-Mbam Markus maiduka 	R
-Aisha Hassan Abubakar 	Java
-Ishaq Muhammad 	Perl 
-Asabe Markus 	C++
-Group Members Matriculation Numbers
-S/N	Matric Number
-1	BASUG/UG/BMS/ANA/22/7811
-2	BASUG/UG/BMS/ANA/22/3788
-3	BASUG/UG/BMS/ANA/22/5528
-4	BASUG/UG/BMS/ANA/22/6956
-5	BASUG/UG/BMS/ANA/22/5404
-VIII. Repository Structurebioinformatic-assignment-group-4
-│ ├── scripts/ │ ├── aliyu.py │ ├── mbam.R │ ├── Aisha.java │ ├── ishaq.pl │ └── Asabe.C++│ ├── artifacts/ │ └── output.csv │ ├── run_workflow.sh ├── README.md └── .gitignore---
-
-Workflow Automation Using Bash
-The Bash script (run_workflow.sh) automates the execution of all scripts written in different programming languages. The workflow performs the following steps:
-
-Executes each script located in the scripts directory.
-Collects the output generated by each script.
-Appends the output into a single CSV file.
-Saves the combined results in the artifacts/output.csv file.
-This workflow demonstrates how Bash scripting can be used to coordinate multi-language bioinformatics analyses and automate repetitive computational tasks.
-
-Generating Structured Data for Downstream Analysis
-The final output of the workflow is a CSV file containing structured information about the contributors. The CSV format makes the data easy to integrate with other computational tools, databases, and analytical workflows commonly used in bioinformatics.
-
-Example output format:Name,Email,Slack Username,Area of Interest: Aliyu  aliyuawaisu38@gmail.com,@aliyuawaisu,Genomics Mbam,maidukumbam@gmail.com,@maidukumbam,Proteomics Aisha,aishahassankwabo@gmail.com,@aishahassankwabo,DNA sequences Ishaq,esherk001@gmail.com,@esherk001,Computational Biology Asabe,markusasabe332@gmail.com,@markusasabe332-boop,Gene Ontology
-
-Authors
-This project was collaboratively developed by Group 4 as part of a Bioinformatics coursework assignment for 400 Level students in the Department of Human Anatomy, Sa’adu Zungur University, Bauchi State, Nigeria.
-
-Lead Author / Project Maintainer
-Aliyu Awaisu – Workflow Design, Python Script Development, Repository Management
-GitHub: https://github.com/aliyuawaisu 
-Area of Interest: Genomics
-Contributors
-Mbam – R Script Development
-GitHub: https://github.com/maidukambam
-Area of Interest: Proteomics
-
-Aisha – Java Script Development
-GitHub: https://github.com/aishahassankwabo 
-Area of Interest: DNA sequences 
-
-Ishaq – Perl Script Development
-GitHub: https://github.com/esherk001-sidu
-Area of Interest: Computational Biology
-
-Asabe – C++ Script Development
-Area of Interest: Gene Ontology
-
-## References
-
-1. Lesk, A. M. (2019). Introduction to Bioinformatics (5th ed.). Oxford University Press.
-
-2. Mount, D. W. (2004). Bioinformatics: Sequence and Genome Analysis (2nd ed.). Cold Spring Harbor Laboratory Press.
-
-3. Pevsner, J. (2015). Bioinformatics and Functional Genomics (3rd ed.). Wiley-Blackwell.
-
-4. Xiong, J. (2006). Essential Bioinformatics. Cambridge University Press.
