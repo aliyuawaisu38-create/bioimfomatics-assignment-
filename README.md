@@ -99,7 +99,7 @@ S/N	Matric Number
 4	BASUG/UG/BMS/ANA/22/6956
 5	BASUG/UG/BMS/ANA/22/5404
 VIII. Repository Structurebioinformatic-assignment-group-4
-│ ├── scripts/ │ ├── aliyu.py │ ├── mbam.R │ ├── Aisha.java │ ├── ishaq.pl │ └── Asabe.C++│ ├── artifacts/ │ └── output.csv │ ├── run_workflow.sh ├── README.md └── .gitignore---
+│ ├── scripts/ │ ├── aliyu.py │ ├── mbam.R │ ├── Aisha.Go │ ├── ishaq.pl │ └── Asabe.C++│ ├── artifacts/ │ └── output.csv │ ├── run_workflow.sh ├── README.md └── .gitignore---
 
 Workflow Automation Using Bash
 The Bash script (run_workflow.sh) automates the execution of all scripts written in different programming languages. The workflow performs the following steps:
@@ -113,7 +113,7 @@ This workflow demonstrates how Bash scripting can be used to coordinate multi-la
 Generating Structured Data for Downstream Analysis
 The final output of the workflow is a CSV file containing structured information about the contributors. The CSV format makes the data easy to integrate with other computational tools, databases, and analytical workflows commonly used in bioinformatics.
 
-Example output format:Name,Email,Slack Username,Area of Interest: Aliyu  aliyuawaisu38@gmail.com,@aliyuawaisu,Genomics Mbam,maidukumbam@gmail.com,@maidukumbam,Proteomics Aisha,aishahassankwabo@gmail.com,@aishahassankwabo,DNA sequences Ishaq,usmanishakhussain@gmail.com@gmail.com,@esherk001,Computational Biology Asabe,markusasabe332@gmail.com,@markusasabe332-boop,Gene Ontology
+Example output format:Name,Email,Slack Username,Area of Interest: Aliyu  aliyuawaisu38@gmail.com,@aliyuawaisu,Genomics Mbam,maidukumbam@gmail.com,@maidukumbam,Proteomics Aisha,aishahassankwabo@gmail.com,@aishahassankwabo,DNA sequences Ishaq,usmanishakhussain001@gmail.com@gmail.com,@esherk001,Computational Biology Asabe,markusasabe332@gmail.com,@markusasabe332-boop,Gene Ontology
 
 Authors
 This project was collaboratively developed by Group 4 as part of a Bioinformatics coursework assignment for 400 Level students in the Department of Human Anatomy, Sa’adu Zungur University, Bauchi State, Nigeria.
