@@ -25,7 +25,7 @@ DNA sequences
 Go
 
 Ishak usman
-usmanishakhussain@gmain.com
+usmanishakhussain001@gmain.com
 esherk001 
 Competitive Biology 
 Per1
