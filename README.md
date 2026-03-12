@@ -1,40 +1,40 @@
 
                       Bioinformatics Assignment group 9
-Name
-Email
-Username 
-Area of Interest 
-Programming lan
+-Name
+-Email
+-Username 
+-Area of Interest 
+-Programming lan
 
-Aliyu Awaisu 
-aliyuawaisu38@gmail.com 
-aliyuawaisu
-Genomics 
-Python 
+-Aliyu Awaisu 
+-aliyuawaisu38@gmail.com 
+-aliyuawaisu
+-Genomics 
+-Python 
 
-Mbam Markus 
-maidukumbam@gmail.com 
-maidukambam-sudo
-Proteomics 
-R
+-Mbam Markus 
+-maidukumbam@gmail.com 
+-maidukambam-sudo
+-Proteomics 
+-R
 
-Aisha Hassan 
-aishahassankwabo@gmail.com
-aishahassankwabo-alt
-DNA sequences 
-Go
+-Aisha Hassan 
+-aishahassankwabo@gmail.com
+-aishahassankwabo-alt
+-DNA sequences 
+-Go
 
-Ishak usman
-usmanishakhussain001@gmain.com
-esherk001 
-Competitive Biology 
-Per1
+-Ishak usman
+-usmanishakhussain001@gmain.com
+-esherk001 
+-Competitive Biology 
+-Per1
 
-Asabe markus 
-markusasabe332@gmail.com 
-markusasab
-Gene Ontology 
-C++
+-Asabe markus 
+-markusasabe332@gmail.com 
+-markusasab
+-Gene Ontology 
+-C++
 
 
 
